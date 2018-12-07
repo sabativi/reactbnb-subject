@@ -25,7 +25,7 @@ Mettre en place la page liste au moyen de sous-composants, des state et des prop
     + Tester ce composant en l'important et en l'affichant dans le composant App (`App.js`)
 1. Créer un composant **HousingListItem** dans un dossier `components` (`src/components/HousingListItem.js`) et l'utiliser dans la fonction `render()` de la `HousingList`. Le logement à afficher est passé au `HousingListItem` via une prop `housing`.
 
-## Pour aller plus loin
+## Un début de navigation
 *Pour aller plus loin, nous allons mettre en place un mécanisme de navigation relativement basique mais qui permettra de passer de la liste des résultats à un écran de détail d'un logement. <br>Cela se fera en 3 étapes :*
 - *Créer un composant pour la page détail : `HousingDetail`*
 - *Créer un bouton autour de chaque item de la HousingList*
