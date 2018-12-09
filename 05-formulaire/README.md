@@ -10,7 +10,7 @@ Mettre en place un formulaire de connection et une page de profil pour l'utilisa
 
 ## Instructions
 
-1. Nous allons dans un premier temps, retravailler notre navigation en ajoutant un tab navigator, le premier tab contiendra nos écrans déjà définis et le deuxième nous servira pour notre écran de profil. Nommer ces tabs "Explore" et "Compte".
+1. Nous allons dans un premier temps, retravailler notre navigation en ajoutant un "TabNavigator", le premier tab contiendra nos écrans déjà définis et le deuxième nous servira pour notre écran de profil. Nommer ces tabs "Explore" et "Profile".
 2. Créer dans le dossier containers, un fichier Profile.js avec un simple composant.
 3. La page de profil contiendra :
 
@@ -19,9 +19,9 @@ Mettre en place un formulaire de connection et une page de profil pour l'utilisa
    - Un email
    - Une courte description de l'hôte
 
-     Pour le moment, nous ne permettrons pas à l'utilisateur de charger ses informations, nous verrons plus tard comment changer l'avatar en accédant à l'appareil photo du téléphone. Nous allons la fixer à "https://bootdey.com/img/Content/avatar/avatar6.png"
+     Pour le moment, nous ne permettrons pas à l'utilisateur de charger ses informations, nous verrons plus tard comment changer l'avatar en accédant à l'appareil photo du téléphone. Nous allons fixer l'avatar avec l'url : "https://bootdey.com/img/Content/avatar/avatar6.png"
 
-4. Mettez en place la page de profil, pour vous aider la hauteur du header est de 200 pixels, l'image a une taille de 130 pixels. Et voici les hexas des couleurs utilisées : "#118086" pour le vert, #fc4c54 pour le rouge et "#696969" pour le texte gris. La taille de la police du nom est de 28 et celle des autres textes est de 16. Le bouton déconnecter, a une largeur de 250 pixes, une hauteur de 45 et des coins arrondis de 20px.
+4. Mettez en place la page de profil, pour vous aider la hauteur du header est de 200 pixels, l'image a une taille de 130 pixels. Et voici les hexas des couleurs utilisées : "#118086" pour le vert, #fc4c54 pour le rouge et "#696969" pour le texte gris. La taille de la police du nom est de 28 et celle des autres textes est de 16. Le bouton déconnecter, a une largeur de 250 pixels, une hauteur de 45 et des coins arrondis de 20px.
 
 ![](images/profile.png)
 
