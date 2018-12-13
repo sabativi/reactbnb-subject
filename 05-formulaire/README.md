@@ -26,7 +26,7 @@ Mettre en place un formulaire de connection et une page de profil pour l'utilisa
 ![](images/profile.png)
 
 5. Mettons maintenant en place le formulaire de connection avec simplement un email et un mot de passe. Je vous laisse libre de l'UI/UX de ce composant, ce n'est pas nécessaire qu'il soit beau, juste fonctionnel.
-6. Vous pouvez ajouter de la validation : l'email doit être un email correcte ( utiliser une regexp ) et le mot de passe doit avoir au minimum 4 caractères.
+6. Vous pouvez ajouter de la validation : l'email doit être un email correcte ( utiliser une regexp ) et le mot de passe doit avoir au minimum 6 caractères.
 7. Créer un répertoire api, dans lequel il y aura un fichier login et vérifier à la soumission du formulaire que les informations rentrées correspondent bien à celles fournies dans le fichier user.json. Sinon afficher une erreur à l'utilisateur.
 
 ![](images/login.png)
