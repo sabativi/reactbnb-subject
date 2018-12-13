@@ -71,7 +71,7 @@ Adapter le code pour utiliser ce composant comme container de la liste et de la 
 
 Il est préférable de tester sur votre propre téléphone.
 
-5. Nous voulons maintenant avoir accès à l'appareil photo du téléphone/gallerie. Il faut pour celà utiliser une librairie : https://github.com/react-native-community/react-native-image-picker. Procéder à l'installation de la librarie puis intialiser la position de la carte sur la position de l'utilisateur.
+5. Nous voulons maintenant avoir accès à l'appareil photo du téléphone/gallerie. Il faut pour celà utiliser une librairie : https://github.com/react-native-community/react-native-image-picker. Procéder à l'installation de la librarie puis changer l'avatar de la personne.
 
 ## Pour aller plus loin :
 
