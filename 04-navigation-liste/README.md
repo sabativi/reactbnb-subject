@@ -9,16 +9,15 @@ Mettre en place une navigation avec react-navigation.
 1. Repartir des fichiers du TP précédent ou du dossier demarrage fourni.
 2. Installer React Navigation
    ```bash
-       npm install --save react-navigation
+       npm install @react-navigation/native
    ```
-3. Installer React Native Gesture Handlers
+3. Installer les dépendances depuis expo
    ```bash
-       npm install --save react-native-gesture-handler
+       expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
    ```
-4. Lier les modules React Native au code source natif ( nous verrons plus tard pourquoi cette commande )
-   ```bash
-      react-native link
-   ```
+4. Ou sur une app react native classique 
+```npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view```
+
 
 ## Instructions
 
