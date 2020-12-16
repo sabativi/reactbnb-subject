@@ -13,10 +13,10 @@ Mettre en place une navigation avec react-navigation.
    ```
 3. Installer les dépendances depuis expo
    ```bash
-       expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+       expo install react-native-gesture-handler @react-navigation/stack react-native-reanimated  @react-navigation/bottom-tabs react-native-screens react-native-safe-area-context @react-native-community/masked-view
    ```
 4. Ou sur une app react native classique 
-```npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view```
+```npm install react-native-reanimated react-native-gesture-handler @react-navigation/stack  @react-navigation/bottom-tabs react-native-screens react-native-safe-area-context @react-native-community/masked-view```
 
 
 ## Instructions
