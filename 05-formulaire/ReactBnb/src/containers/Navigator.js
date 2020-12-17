@@ -1,3 +1,4 @@
+import React from "react";
 import { createStackNavigator } from '@react-navigation/stack';
 import HousingList from "./HousingList";
 import HousingDetail from "./HousingDetail";
