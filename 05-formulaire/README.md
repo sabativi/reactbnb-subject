@@ -42,12 +42,6 @@ Mettre en place un formulaire de connection et une page de profil pour l'utilisa
       npm install --save react-native-vector-icons
   ```
 
-- Lier les modules React Native au code source natif ( nous verrons plus tard pourquoi cette commande )
-
-  ```bash
-      react-native link
-  ```
-
 1. Vous avez maintenant accès à plus de 3000 icones : https://oblador.github.io/react-native-vector-icons/, utiliser les options de react navigation pour personnaliser vos icones.
 
 ![](images/icons.png)
